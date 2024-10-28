@@ -1,0 +1,125 @@
+.section2>.body>.body-right-container{
+    background-color: rgb(28, 32, 36);
+    color: white;
+}
+.section2 .icon-right a{ 
+    color: rgb(7, 197, 7);
+}
+.section2 .icon-right i, .section2 .nav-33-list>li>a>i{
+    color:rgb(7, 197, 7);
+}
+.section2 .nav-33-list{
+    margin-right: 70px;
+}
+.section2 .nav-33-list li a{
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.section2 .grid4-full, #grid4-full{
+    grid-template-columns: 170px 1fr;
+}
+.section2 .grid4-full div{
+    color: white;
+    font-size: 15px;
+}
+.section2 .grid4-full-list{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    position: relative;
+    right: 75px;
+}
+.section2 .grid4-full-list div{
+    height: 25px;
+    text-align: center;
+    font-size: 12px;
+    color: rgb(185, 183, 183);
+}
+.section2 .grid4-full-list >ul{
+    padding:0px 25px;
+    color: rgb(185, 183, 183);
+    background-color:rgba(185, 183, 183, 0.466) ;
+    font-size: 13px;
+    margin-left: 1px;
+    margin-right: 2px;
+}
+.section2 .grid4b-full-list{
+    grid-area: 2/1/2/3;
+    display: grid;
+    grid-template-columns: 80px 1fr;
+    column-gap: 5px;
+}
+/* #grid4b-full-list{
+    grid-area: 3/1/3/3;
+} */
+.section2 .grid4b-full-odd{
+    display: grid;
+    border-bottom: 1px solid rgba(85, 82, 82, 0.404) ;
+    border-top: 1px solid rgba(85, 82, 82, 0.404) ;
+    grid-template-columns: 123px 30px 460px 50px;
+    column-gap: 3px;
+}
+.section2 .grid4b-full-odd>div{
+    height:fit-content;
+    font-size: 13px;
+    display: flex;
+}
+.section2 .grid4b-full-odd ul{
+    display: flex;
+}
+.section2 .grid4b-full-odd .c{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 5px;
+}
+.radius{
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+.radius2{
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+.c-sub ul li a{
+    color: white;
+    font-size: 13px;
+    padding: 5px 20px 10px 20px;
+    border-left: 2px solid rgb(28, 32, 36);
+    background-color: green;
+}
+.section2.grid4b-full-odd .c li a{
+    justify-content: space-between;
+}
+a{
+    color: white;
+    padding: 5px 0px 5px 5px;
+}
+
+.footer-wrapper{
+    width: 100%;
+    height: 400px;
+    background-color: rgb(28, 32, 36);
+}
+.footer-container{
+    border: 2px solid red;
+    width: 80%;
+    height: fit-content;
+    margin: auto;
+    display: grid;
+    grid-template-columns: 400px  1fr 1fr 250px;
+    grid-template-rows: 1fr 1fr 1fr 1fr;
+    gap: 10px;
+}
+.footer-container div{
+    border: 2px solid white;
+    padding-left: 3px;
+}
+.footer1 img{
+    width:120px ;
+}
+.footer1> .flag{
+    width: 100px;
+    position: relative;
+    left: -1px;
+    top: -3px;
+}
