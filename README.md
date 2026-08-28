@@ -44,16 +44,12 @@ My work focuses on real operational problems: membership management, school admi
 
 <div align="center">
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=okoko-sunday&theme=github_dark" alt="Sunday's GitHub statistics" />
 <img width="49%" src="https://streak-stats.demolab.com?user=okoko-sunday&hide_border=true&background=0F172A&stroke=334155&ring=22D3EE&fire=14B8A6&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=22D3EE&sideLabels=CBD5E1&dates=94A3B8" alt="Sunday's GitHub contribution streak" />
-
-<img width="52%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=okoko-sunday&theme=github_dark" alt="Most-used languages across Sunday's public repositories" />
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=okoko-sunday&theme=github_dark" alt="Sunday's GitHub profile activity summary" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=okoko-sunday&theme=github_dark" alt="Most-used languages across Sunday's public repositories" />
 
 </div>
 
-<sub>Language statistics reflect code detected in public repositories; they are not a measure of proficiency. Third-party cards may not include every private contribution.</sub>
+<sub>Language statistics reflect code detected in public repositories; they are not a measure of proficiency. Private repository activity may not be included.</sub>
 
 ## Featured projects
 
