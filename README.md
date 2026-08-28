@@ -44,12 +44,12 @@ My work focuses on real operational problems: membership management, school admi
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=okoko-sunday&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0F172A&title_color=22D3EE&text_color=CBD5E1&icon_color=14B8A6&ring_color=22D3EE" alt="Sunday's GitHub statistics" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=okoko-sunday&theme=github_dark" alt="Sunday's GitHub statistics" />
 <img width="49%" src="https://streak-stats.demolab.com?user=okoko-sunday&hide_border=true&background=0F172A&stroke=334155&ring=22D3EE&fire=14B8A6&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=22D3EE&sideLabels=CBD5E1&dates=94A3B8" alt="Sunday's GitHub contribution streak" />
 
-<img width="52%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=okoko-sunday&layout=compact&hide_border=true&bg_color=0F172A&title_color=22D3EE&text_color=CBD5E1" alt="Most-used languages across Sunday's public repositories" />
+<img width="52%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=okoko-sunday&theme=github_dark" alt="Most-used languages across Sunday's public repositories" />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=okoko-sunday&bg_color=0F172A&color=CBD5E1&line=14B8A6&point=22D3EE&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Sunday's GitHub contribution activity graph" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=okoko-sunday&theme=github_dark" alt="Sunday's GitHub profile activity summary" />
 
 </div>
 
