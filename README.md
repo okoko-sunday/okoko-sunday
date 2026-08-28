@@ -1,10 +1,37 @@
-# Hi, I'm Sunday Okoko
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:0F766E,100:22D3EE&text=Sunday%20Okoko&fontColor=F8FAFC&fontSize=48&fontAlignY=38&desc=Full-Stack%20Software%20Developer&descAlignY=59&descSize=19&animation=fadeIn" alt="Sunday Okoko — Full-Stack Software Developer" />
+
+<p>
+  <a href="https://www.linkedin.com/in/okoko-sunday"><img src="https://img.shields.io/badge/LinkedIn-0F766E?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://okoko-sunday.github.io/"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=githubpages&logoColor=22D3EE" alt="Portfolio" /></a>
+  <img src="https://komarev.com/ghpvc/?username=okoko-sunday&style=for-the-badge&color=0F766E&label=PROFILE+VIEWS" alt="Profile views" />
+</p>
+
+</div>
+
+## About me
 
 I'm a full-stack software developer who builds practical, production-ready platforms with Python, Django, React, JavaScript, and Go.
 
 My work focuses on real operational problems: membership management, school administration, coding assessments, digital identity verification, payment-enabled workflows, and responsive web applications.
 
+- Building reliable backend systems, REST APIs, and role-based applications
+- Comfortable taking products from database design through deployment
+- Open to full-time and remote software engineering opportunities
+
 ## Technical toolkit
+
+<p>
+  <img src="https://img.shields.io/badge/Python-0F172A?style=flat-square&logo=python&logoColor=22D3EE" alt="Python" />
+  <img src="https://img.shields.io/badge/Django-0F766E?style=flat-square&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/Go-0F172A?style=flat-square&logo=go&logoColor=22D3EE" alt="Go" />
+  <img src="https://img.shields.io/badge/React-0F172A?style=flat-square&logo=react&logoColor=22D3EE" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-0F766E?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0F172A?style=flat-square&logo=postgresql&logoColor=22D3EE" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Docker-0F766E?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/GitHub-0F172A?style=flat-square&logo=github&logoColor=22D3EE" alt="GitHub" />
+</p>
 
 - **Backend:** Python, Django, Django REST Framework, Go
 - **Frontend:** React, JavaScript, TypeScript, Vite, HTML, CSS
@@ -12,6 +39,17 @@ My work focuses on real operational problems: membership management, school admi
 - **Infrastructure:** Docker, Railway, Render, Cloudflare Pages
 - **Integrations:** Paystack, Cloudinary, Firebase, Brevo
 - **Engineering:** REST APIs, role-based access control, system design, testing, responsive design, Git
+
+## GitHub activity
+
+<div align="center">
+
+<img width="49%" src="https://streak-stats.demolab.com?user=okoko-sunday&hide_border=true&background=0F172A&stroke=334155&ring=22D3EE&fire=14B8A6&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=22D3EE&sideLabels=CBD5E1&dates=94A3B8" alt="Sunday's GitHub contribution streak" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=okoko-sunday&theme=github_dark" alt="Most-used languages across Sunday's public repositories" />
+
+</div>
+
+<sub>Language statistics reflect code detected in public repositories; they are not a measure of proficiency. Private repository activity may not be included.</sub>
 
 ## Featured projects
 
@@ -37,7 +75,7 @@ A multi-tenant membership platform for independent dispatch-rider associations. 
 
 **Stack:** Django, Django REST Framework, React, PostgreSQL, Docker, JWT, Paystack, Cloudinary
 
-[Repository](https://github.com/okoko-sunday/Codran)
+[Live application](https://codran.com.ng) · [Repository](https://github.com/okoko-sunday/Codran)
 
 ### Exam System
 
@@ -72,6 +110,7 @@ A Django marketplace for discovering and purchasing ready-made software, with pr
 
 ## Connect
 
+- [Portfolio](https://okoko-sunday.github.io/)
 - [LinkedIn](https://www.linkedin.com/in/okoko-sunday)
 
 I'm open to full-time and remote software engineering opportunities.
