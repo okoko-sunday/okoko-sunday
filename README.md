@@ -30,6 +30,7 @@ My work focuses on real operational problems: membership management, school admi
   <img src="https://img.shields.io/badge/TypeScript-0F766E?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/PostgreSQL-0F172A?style=flat-square&logo=postgresql&logoColor=22D3EE" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Docker-0F766E?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/GitHub-0F172A?style=flat-square&logo=github&logoColor=22D3EE" alt="GitHub" />
 </p>
 
 - **Backend:** Python, Django, Django REST Framework, Go
