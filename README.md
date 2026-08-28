@@ -5,7 +5,6 @@
 <p>
   <a href="https://www.linkedin.com/in/okoko-sunday"><img src="https://img.shields.io/badge/LinkedIn-0F766E?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://okoko-sunday.github.io/"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=githubpages&logoColor=22D3EE" alt="Portfolio" /></a>
-  <img src="https://komarev.com/ghpvc/?username=okoko-sunday&style=for-the-badge&color=0F766E&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
 </div>
