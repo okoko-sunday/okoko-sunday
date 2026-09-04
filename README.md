@@ -58,7 +58,7 @@ A full-stack membership and operations platform for the United Dispatch Riders A
 
 **Stack:** Django, Django REST Framework, React, PostgreSQL, Docker, Railway, Cloudflare Pages, Paystack
 
-[Live application](https://udraa.com.ng) · [Repository](https://github.com/okoko-sunday/udraa_new)
+[Live application](https://udraa.com.ng) · _Private repository — code access available upon request_
 
 ### RecordRight
 
@@ -66,7 +66,7 @@ A multi-platform school management application for administrators, teachers, par
 
 **Stack:** Django, Django REST Framework, React, PostgreSQL, Firebase, PWA, Capacitor
 
-[Repository](https://github.com/okoko-sunday/school)
+_Private repository — code access available upon request_
 
 ### Codran
 
@@ -74,7 +74,7 @@ A multi-tenant membership platform for independent dispatch-rider associations. 
 
 **Stack:** Django, Django REST Framework, React, PostgreSQL, Docker, JWT, Paystack, Cloudinary
 
-[Live application](https://codran.com.ng) · [Repository](https://github.com/okoko-sunday/Codran)
+[Live application](https://codran.com.ng) · _Private repository — code access available upon request_
 
 ### Exam System
 
@@ -82,7 +82,7 @@ A Go-based coding examination platform supporting timed assessments, Go and Pyth
 
 **Stack:** Go, Python, WebSockets, SQLite, PostgreSQL
 
-[Repository](https://github.com/okoko-sunday/exam-system)
+_Private repository — code access available upon request_
 
 ### BGT School Platform
 
@@ -90,7 +90,7 @@ A Django-powered school website and admissions platform with online registration
 
 **Stack:** Python, Django, PostgreSQL, Paystack, Cloudinary
 
-[Repository](https://github.com/okoko-sunday/BGT)
+_Private repository — code access available upon request_
 
 ### SoftwareHub
 
@@ -98,7 +98,7 @@ A Django marketplace for discovering and purchasing ready-made software, with pr
 
 **Stack:** Python, Django, PostgreSQL, Cloudinary, Brevo, Render
 
-[Repository](https://github.com/okoko-sunday/softwarehub)
+_Private repository — code access available upon request_
 
 ## Currently developing
 
