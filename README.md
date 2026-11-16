@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:0F766E,100:22D3EE&text=Sunday%20Okoko&fontColor=F8FAFC&fontSize=48&fontAlignY=38&desc=Full-Stack%20Software%20Developer&descAlignY=59&descSize=19&animation=fadeIn" alt="Sunday Okoko — Full-Stack Software Developer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:0F766E,100:22D3EE&text=Sunday%20Okoko&fontColor=F8FAFC&fontSize=48&fontAlignY=38&desc=Applied%20AI%20%26%20Full-Stack%20Engineering&descAlignY=59&descSize=19&animation=fadeIn" alt="Sunday Okoko — Applied AI &amp; Full-Stack Engineering" />
 
 <p>
   <a href="https://www.linkedin.com/in/okoko-sunday"><img src="https://img.shields.io/badge/LinkedIn-0F766E?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -11,7 +11,7 @@
 
 ## About me
 
-I'm a full-stack software developer who builds practical, production-ready platforms with Python, Django, React, JavaScript, and Go.
+I'm a software developer focused on applied AI and full-stack engineering. I build computer vision applications and AI-powered workflows alongside web platforms built with Python, Django, React, JavaScript, and Go.
 
 My work focuses on real operational problems: membership management, school administration, coding assessments, digital identity verification, payment-enabled workflows, and responsive web applications.
 
@@ -50,7 +50,17 @@ My work focuses on real operational problems: membership management, school admi
 
 <sub>Language statistics reflect code detected in public repositories; they are not a measure of proficiency. Private repository activity may not be included.</sub>
 
-## Featured projects
+## Featured AI Projects
+
+### [Cat, Dog, or Neither](https://github.com/okoko-sunday/capstone)
+
+A computer vision application that classifies photos as cat, dog, or neither. It includes a Keras training notebook, evaluation on held-out images, an inference API, and a web interface.
+
+### [ShopEase — AI Customer Request Automation](https://github.com/okoko-sunday/n8n)
+
+A team project that connects a customer request form to an n8n webhook. The workflow is designed to use AI to classify incoming requests, route them to the right team, log them in Google Sheets, and email the customer.
+
+## Featured Full-Stack Projects
 
 ### Udraa
 
