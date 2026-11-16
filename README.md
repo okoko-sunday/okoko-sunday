@@ -13,11 +13,11 @@
 
 I'm a software developer focused on applied AI and full-stack engineering. I build computer vision applications and AI-powered workflows alongside web platforms built with Python, Django, React, JavaScript, and Go.
 
-My work focuses on real operational problems: membership management, school administration, coding assessments, digital identity verification, payment-enabled workflows, and responsive web applications.
+My work includes training and evaluating image classifiers, integrating model predictions into web applications, and using n8n and AI to classify and route customer requests.
 
-- Building reliable backend systems, REST APIs, and role-based applications
-- Comfortable taking products from database design through deployment
-- Open to full-time and remote software engineering opportunities
+- Build REST APIs and role-based applications for membership management, school administration, and coding assessments.
+- Take products from database design through deployment, including payment integrations, digital identity verification, and responsive interfaces.
+- Open to full-time and remote opportunities in applied AI and software engineering.
 
 ## Technical toolkit
 
